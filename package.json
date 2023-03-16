@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "node --test test.mjs"
+    "test": "node --test"
   },
   "devDependencies": {
     "@architect/sandbox": "^5.5.4"
