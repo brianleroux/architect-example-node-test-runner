@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "node --test test.mjs"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^5.5.4"
+  },
+  "dependencies": {
+    "@architect/functions": "^5.4.0",
+    "bcryptjs": "^2.4.3",
+    "nanoid": "^4.0.1"
+  }
+}
