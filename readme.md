@@ -6,3 +6,5 @@ Try it out! Clone this repo, installing dependencies with `npm i` and running `n
 - `index.mjs` exports a basic CRUDL client for DDB table above
 - `test.mjs` defines a test suite for the client
 - `package.json` sets up `npm t` and deps
+
+Learn more about [Architect](https://arc.codes) and [join our Disco](https://discord.gg/y5A2eTsCRX).
